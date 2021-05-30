@@ -1,0 +1,11 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "Node",
+    "experimentalDecorators": true,
+    "target": "es6",
+    "lib": ["es2017", "dom"]
+  }
+}
